@@ -12,7 +12,7 @@ Todos os arquivos necessários para o projeto estão armazenados neste repositó
 1. **Clone o repositório**
    - Execute o seguinte comando para clonar o repositório para o seu computador:
      ```bash
-     git clone https://github.com/ercibrito/Desafio-Ciencia-de-Dados.git
+     git clone https://github.com/ercibrito/Desafio-Cientista-de-Dados
      cd Desafio-Ciencia-de-Dados
      ```
 
